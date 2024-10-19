@@ -1,0 +1,14 @@
+<svg width="500" height="150" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    <![CDATA[
+      @import url('https://fonts.googleapis.com/css2?family=Rubik+Scribble&display=swap');
+      .fancy-text {
+        font-family: 'Rubik Scribble', cursive;
+        font-size: 90px;
+        fill: white;
+      }
+    ]]>
+  </style>
+  
+  <text x="50" y="100" class="fancy-text">HelloDevs</text>
+</svg>
